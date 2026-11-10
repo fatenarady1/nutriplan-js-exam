@@ -1104,7 +1104,7 @@ allMeals.forEach((ele)=>{
     }  
               
     // console.log(data.data);
-    //  detailMeal = data.data;
+     detailMeal = data.data;
     // console.log(detailMeal);
     // console.log("Meal:", m);
 // console.log("Nutrition:", detailMeal);
